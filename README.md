@@ -4,15 +4,15 @@ Heart disease prediction using logistic regression is a data-driven approach to 
 
 **Process:**
 
-**Data Collection: **Relevant medical data is collected from individuals, including both those with and without heart disease.
+**Data Collection:** Relevant medical data is collected from individuals, including both those with and without heart disease.
 
-**Data Preprocessing: **The collected data undergoes preprocessing steps such as handling missing values, normalization, and encoding categorical variables.
+**Data Preprocessing:** The collected data undergoes preprocessing steps such as handling missing values, normalization, and encoding categorical variables.
 
-**Feature Selection: **Important features that significantly impact heart disease prediction are selected through techniques like correlation analysis or domain knowledge.
+**Feature Selection:** Important features that significantly impact heart disease prediction are selected through techniques like correlation analysis or domain knowledge.
 
 **Model Training:** Logistic regression is applied to the processed data to build a predictive model. During training, the model learns the relationship between input features and the probability of heart disease occurrence.
 
-**Model Evaluation: **The trained model is evaluated using metrics like accuracy, precision, recall, and ROC curves to assess its predictive performance.
+**Model Evaluation:** The trained model is evaluated using metrics like accuracy, precision, recall, and ROC curves to assess its predictive performance.
 
 **Prediction:** Once validated, the model can be deployed to predict the likelihood of heart disease in new individuals based on their medical information.
 
