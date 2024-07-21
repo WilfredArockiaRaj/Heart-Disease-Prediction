@@ -24,6 +24,7 @@ Heart disease prediction using logistic regression is a data-driven approach to 
 ![image](https://github.com/user-attachments/assets/bb35850f-ee00-4bf9-9280-229d63ff2aca)
 
 
+
 **Outcome:**
 
 Heart disease prediction using logistic regression provides a tool for early detection and risk assessment, aiding healthcare professionals in making informed decisions regarding patient care and preventive measures.
