@@ -21,7 +21,7 @@ Heart disease prediction using logistic regression is a data-driven approach to 
 
 
 **Logistic Regression Outcome:**
-![image](https://github.com/user-attachments/assets/83dec2ba-8eb4-4c82-8235-2e9aa85e95a4)
+![image](https://github.com/user-attachments/assets/bb35850f-ee00-4bf9-9280-229d63ff2aca)
 
 
 **Outcome:**
